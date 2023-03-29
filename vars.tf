@@ -16,6 +16,6 @@ variable "AMIS" {
 }
 
 variable "USER" {
-  default = "ec2-user"
+  default = "ubuntu"
 
 }
